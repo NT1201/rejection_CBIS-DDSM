@@ -1,0 +1,27 @@
+/cbis_cls2
+/cbis_cls3
+/cbis_cls3cbis_cls2.zip
+# Datasets 
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.pt
+*.pth
+*.onnx
+*.npy
+ECHO is on.
+# Common data/output dirs
+data/
+dataset/
+datasets/
+cbis_cls2/
+runs/
+outputs/
+logs/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.DS_Store
